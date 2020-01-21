@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Project\\AFox\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Project\\AFox\\app\\src\\main\\res\\values\\arrays.xml",
+                    "from": {
+                        "startLines": "20,26,3,11",
+                        "startColumns": "2,2,2,2",
+                        "startOffsets": "488,630,80,273",
+                        "endLines": "24,30,9,17",
+                        "endColumns": "17,17,17,17",
+                        "endOffsets": "624,770,267,460"
+                    },
+                    "to": {
+                        "startLines": "2,7,12,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,192,333,519",
+                        "endLines": "6,11,18,25",
+                        "endColumns": "17,17,17,17",
+                        "endOffsets": "187,328,514,700"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\AFox\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "103,215,282,353",
+                        "endColumns": "111,66,70,44",
+                        "endOffsets": "210,277,348,393"
+                    },
+                    "to": {
+                        "startLines": "28,30,31,46",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "800,967,1034,1928",
+                        "endColumns": "111,66,70,44",
+                        "endOffsets": "907,1029,1100,1968"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\AFox\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,27,26,7,6,9,16,15,14,12,11,22,21,19,18,23,24,4,29",
+                        "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
+                        "startOffsets": "55,1020,966,199,145,256,548,484,426,361,304,794,741,672,610,855,908,98,1074",
+                        "endColumns": "39,50,52,53,52,44,58,62,56,61,55,59,51,65,60,51,54,43,74",
+                        "endOffsets": "92,1068,1016,250,195,298,604,544,480,420,357,851,790,735,668,904,960,139,1146"
+                    },
+                    "to": {
+                        "startLines": "26,27,29,32,33,34,35,36,37,38,39,40,41,42,43,44,45,47,48",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "705,747,912,1105,1161,1216,1263,1324,1389,1448,1512,1570,1632,1686,1754,1817,1871,1973,2019",
+                        "endColumns": "41,52,54,55,54,46,60,64,58,63,57,61,53,67,62,53,56,45,76",
+                        "endOffsets": "742,795,962,1156,1211,1258,1319,1384,1443,1507,1565,1627,1681,1749,1812,1866,1923,2014,2091"
+                    }
+                }
+            ]
+        }
+    ]
+}

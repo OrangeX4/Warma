@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Project\\AFox\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "D:\\Project\\AFox\\app\\src\\main\\res\\values-v14\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "55",
+                        "endColumns": "61",
+                        "endOffsets": "114"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "261",
+                        "endColumns": "63",
+                        "endOffsets": "320"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\AFox\\app\\src\\main\\res\\values-v14\\arrays.xml",
+                    "from": {
+                        "startLines": "3,7",
+                        "startColumns": "2,2",
+                        "startOffsets": "77,181",
+                        "endLines": "5,9",
+                        "endColumns": "17,17",
+                        "endOffsets": "175,283"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,156",
+                        "endLines": "4,7",
+                        "endColumns": "17,17",
+                        "endOffsets": "151,256"
+                    }
+                }
+            ]
+        }
+    ]
+}
