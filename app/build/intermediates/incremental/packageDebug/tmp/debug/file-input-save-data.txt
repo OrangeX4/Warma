@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jan 22 03:43:09 CST 2020
+#Wed Jan 22 04:54:35 CST 2020
 0.baseType=DIRECTORY
 0.base=D\:\\Project\\Warma\!\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 0.path=classes.dex

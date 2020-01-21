@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <motion-params acceleration="120"
-    maxVelocity="70"
+    maxVelocity="60"
     deaccelerationDistance="60"
     proximityDistance="5"
     initialState="stop"
