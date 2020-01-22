@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Wed Jan 22 00:11:14 CST 2020
-0.baseType=DIRECTORY
-0.base=D\:\\Project\\AFox\\aNekoSampleSkin\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
-0.path=classes.dex
-0.set=DEX
-count=1

@@ -1,77 +1,77 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:2:1-33:12
 	package
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:3:11-43
-		INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:3:11-43
+		INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml
 	android:label
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:6:11-44
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:6:11-44
 	android:versionName
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:8:11-36
-		INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:8:11-36
+		INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:4:11-57
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:4:11-57
 	xmlns:android
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:7:11-34
-		INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:7:11-34
+		INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml
 	tools:replace
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:5:11-40
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:5:11-40
 application
-ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:10:5-32:17
+ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:10:5-32:17
 	android:icon
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:10:18-47
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:10:18-47
 activity#com.example.aneko.test.SkinActivity
-ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:13:5-30:16
+ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:13:5-30:16
 	android:label
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:14:15-55
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:14:15-55
 	android:theme
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:15:15-61
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:15:15-61
 	android:name
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:13:15-65
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:13:15-65
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.INFO
-ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:17:7-20:23
+ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:17:7-20:23
 action#android.intent.action.MAIN
-ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:18:9-61
+ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:18:9-61
 	android:name
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:18:17-58
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:18:17-58
 category#android.intent.category.INFO
-ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:19:9-65
+ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:19:9-65
 	android:name
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:19:19-62
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:19:19-62
 intent-filter#action:name:org.tamanegi.aneko.action.GET_SKIN
-ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:23:7-25:23
+ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:23:7-25:23
 action#org.tamanegi.aneko.action.GET_SKIN
-ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:24:9-69
+ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:24:9-69
 	android:name
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:24:17-66
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:24:17-66
 meta-data#org.tamanegi.aneko.skin
-ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:28:7-29:56
+ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:28:7-29:56
 	android:resource
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:29:18-53
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:29:18-53
 	android:name
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:28:18-56
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml:28:18-56
 uses-sdk
-INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml
-INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml
-INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml
-INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Warma\aMantou\src\main\AndroidManifest.xml

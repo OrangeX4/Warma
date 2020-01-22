@@ -1,4 +1,1 @@
-#Wed Jan 22 03:18:48 CST 2020
-base.0=D\:\\Project\\Warma\!\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
-path.0=classes.dex
-renamed.0=classes.dex
+#Wed Jan 22 03:36:24 CST 2020

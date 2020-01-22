@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Project\\Warma!\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Project\\AFoxtest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "D:\\Project\\Warma!\\aMantou\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "source": "D:\\Project\\AFoxtest\\aMantou\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\Project\\AFoxtest\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "2,27,26,7,6,9,16,15,14,12,11,22,21,19,18,23,24,4,29",
                         "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
@@ -38,24 +38,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "3,4,5,6",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "99,148,200,244",
-                        "endColumns": "48,51,43,40",
-                        "endOffsets": "143,195,239,280"
-                    },
-                    "to": {
-                        "startLines": "29,31,32,47",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "850,954,1006,1899",
-                        "endColumns": "48,51,43,40",
-                        "endOffsets": "894,1001,1045,1935"
-                    }
-                },
-                {
-                    "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\values\\arrays.xml",
+                    "source": "D:\\Project\\AFoxtest\\app\\src\\main\\res\\values\\arrays.xml",
                     "from": {
                         "startLines": "20,26,3,11",
                         "startColumns": "2,2,2,2",
@@ -71,6 +54,23 @@
                         "endLines": "6,11,18,25",
                         "endColumns": "17,17,17,17",
                         "endOffsets": "187,328,514,700"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\AFoxtest\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "99,148,200,244",
+                        "endColumns": "48,51,43,40",
+                        "endOffsets": "143,195,239,280"
+                    },
+                    "to": {
+                        "startLines": "29,31,32,47",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "850,954,1006,1899",
+                        "endColumns": "48,51,43,40",
+                        "endOffsets": "894,1001,1045,1935"
                     }
                 }
             ]
