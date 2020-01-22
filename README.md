@@ -14,5 +14,16 @@
 
 **想要更多有趣的皮肤？看看下面的内容，然后提意见吧！欢迎Star + Fork + Pull Request 三连！！！**
 
-# 新皮肤指南！
-TODO...
+# 大众向新皮肤指南！
+
+
+# 程序员向新皮肤指南！  
+下面内容的是给想自己修改的**程序员**看的：  
+1.下载[sample project](https://www.tamanegi.org/prog/android-apps/p/ANeko-SampleSkin-0.1.1.zip)  
+2.在Android Studio里File->New->Import Module引入sample  
+3.照着它说的Refactor   
+4.在APP中的build.gradle中android节点加入 dependencies {implementation project(':模块名')}   
+5.在模块中的build.gradle中把apply plugin: 'com.android.application'换成apply plugin: 'com.android.library'  
+6.在模块中的build.gradle中把各种version与app中的保持一致  
+7.在模块中的build.gradle中把applicationId "com.example.aneko.sample"删去或者注销掉  
+8.修改res中的图像文件，然后build+run即可！    
