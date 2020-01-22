@@ -1,4 +1,4 @@
-com.example.aneko.sample
+com.example.aneko.test
 drawable awake
 drawable down1
 drawable down2
@@ -33,9 +33,9 @@ drawable yang2
 drawable yy
 drawable z
 drawable zz
-string app_name
+string mantou_skin_name
 string msg_no_package
 string msg_unexpected_err
 string msg_usage
-string skin_name
+string test_name
 xml skin

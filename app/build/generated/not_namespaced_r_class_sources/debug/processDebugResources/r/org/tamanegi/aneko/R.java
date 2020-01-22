@@ -121,28 +121,30 @@ public final class R {
   }
   public static final class string {
     public static final int app_name=0x7f050000;
-    public static final int msg_market_not_found=0x7f050001;
-    public static final int msg_no_package=0x7f050002;
-    public static final int msg_skin_load_failed=0x7f050003;
-    public static final int msg_unexpected_err=0x7f050004;
-    public static final int msg_usage=0x7f050005;
-    public static final int notification_disable=0x7f050006;
-    public static final int notification_enable=0x7f050007;
-    public static final int pref_cat_motion=0x7f050008;
-    public static final int pref_motion_behaviour_default=0x7f050009;
-    public static final int pref_motion_behaviour_summary=0x7f05000a;
-    public static final int pref_motion_behaviour_title=0x7f05000b;
-    public static final int pref_motion_enable_summary=0x7f05000c;
-    public static final int pref_motion_enable_title=0x7f05000d;
-    public static final int pref_motion_skin_summary=0x7f05000e;
-    public static final int pref_motion_skin_title=0x7f05000f;
-    public static final int pref_motion_transparency_summary=0x7f050010;
-    public static final int pref_motion_transparency_title=0x7f050011;
-    public static final int pref_skin_dialog_title=0x7f050012;
-    public static final int pref_skin_search_button=0x7f050013;
-    public static final int skin_name=0x7f050014;
-    public static final int skin_name_neko=0x7f050015;
-    public static final int skin_search_uri=0x7f050016;
+    public static final int mantou_skin_name=0x7f050001;
+    public static final int msg_market_not_found=0x7f050002;
+    public static final int msg_no_package=0x7f050003;
+    public static final int msg_skin_load_failed=0x7f050004;
+    public static final int msg_unexpected_err=0x7f050005;
+    public static final int msg_usage=0x7f050006;
+    public static final int notification_disable=0x7f050007;
+    public static final int notification_enable=0x7f050008;
+    public static final int pref_cat_motion=0x7f050009;
+    public static final int pref_motion_behaviour_default=0x7f05000a;
+    public static final int pref_motion_behaviour_summary=0x7f05000b;
+    public static final int pref_motion_behaviour_title=0x7f05000c;
+    public static final int pref_motion_enable_summary=0x7f05000d;
+    public static final int pref_motion_enable_title=0x7f05000e;
+    public static final int pref_motion_skin_summary=0x7f05000f;
+    public static final int pref_motion_skin_title=0x7f050010;
+    public static final int pref_motion_transparency_summary=0x7f050011;
+    public static final int pref_motion_transparency_title=0x7f050012;
+    public static final int pref_skin_dialog_title=0x7f050013;
+    public static final int pref_skin_search_button=0x7f050014;
+    public static final int skin_name=0x7f050015;
+    public static final int skin_name_neko=0x7f050016;
+    public static final int skin_search_uri=0x7f050017;
+    public static final int test_name=0x7f050018;
   }
   public static final class xml {
     public static final int neko=0x7f060000;

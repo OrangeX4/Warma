@@ -5,7 +5,7 @@ INJECTED from D:\Project\Warma!\app\src\main\AndroidManifest.xml:2:1-42:12
 INJECTED from D:\Project\Warma!\app\src\main\AndroidManifest.xml:2:1-42:12
 INJECTED from D:\Project\Warma!\app\src\main\AndroidManifest.xml:2:1-42:12
 MERGED from [:aNekoSampleSkin] D:\Project\Warma!\aNekoSampleSkin\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-40:12
-MERGED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-40:12
+MERGED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-41:12
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43f4e6930fd083f3fe004e12b947edef\AndroidManifest.xml:17:1-22:12
 INJECTED from D:\Project\Warma!\app\src\main\AndroidManifest.xml:2:1-42:12
 INJECTED from D:\Project\Warma!\app\src\main\AndroidManifest.xml:2:1-42:12
@@ -36,8 +36,8 @@ application
 ADDED from D:\Project\Warma!\app\src\main\AndroidManifest.xml:10:3-41:17
 MERGED from [:aNekoSampleSkin] D:\Project\Warma!\aNekoSampleSkin\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-38:19
 MERGED from [:aNekoSampleSkin] D:\Project\Warma!\aNekoSampleSkin\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-38:19
-MERGED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-38:19
-MERGED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-38:19
+MERGED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-39:19
+MERGED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-39:19
 	android:label
 		ADDED from D:\Project\Warma!\app\src\main\AndroidManifest.xml:10:46-78
 	android:icon
@@ -108,8 +108,8 @@ INJECTED from D:\Project\Warma!\app\src\main\AndroidManifest.xml
 INJECTED from D:\Project\Warma!\app\src\main\AndroidManifest.xml
 MERGED from [:aNekoSampleSkin] D:\Project\Warma!\aNekoSampleSkin\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:aNekoSampleSkin] D:\Project\Warma!\aNekoSampleSkin\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-12:41
+MERGED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-12:41
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43f4e6930fd083f3fe004e12b947edef\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43f4e6930fd083f3fe004e12b947edef\AndroidManifest.xml:20:5-43
 INJECTED from D:\Project\Warma!\app\src\main\AndroidManifest.xml
@@ -136,11 +136,11 @@ category#android.intent.category.INFO
 ADDED from [:aNekoSampleSkin] D:\Project\Warma!\aNekoSampleSkin\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-73
 	android:name
 		ADDED from [:aNekoSampleSkin] D:\Project\Warma!\aNekoSampleSkin\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:27-70
-activity#com.example.aneko.sample.SkinActivity
-ADDED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-37:20
+activity#com.example.aneko.test.SkinActivity
+ADDED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-38:20
 	android:label
-		ADDED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-46
+		ADDED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-53
 	android:theme
-		ADDED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-59
+		ADDED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-59
 	android:name
-		ADDED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-65
+		ADDED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-63

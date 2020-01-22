@@ -25,6 +25,7 @@
     <item>0.8</item>
   </string-array>
     <string name="app_name">Warma!</string>
+    <string name="mantou_skin_name">馒头</string>
     <string name="msg_market_not_found">未找到</string>
     <string name="msg_no_package">这是蜘蛛！</string>
     <string name="msg_skin_load_failed">加载失败。</string>
@@ -47,4 +48,5 @@
     <string name="skin_name">蜘蛛</string>
     <string name="skin_name_neko">被窝玛</string>
     <string name="skin_search_uri">https://github.com/OrangeX4/Warma</string>
+    <string name="test_name">SampleSkin</string>
 </resources>

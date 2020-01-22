@@ -103,6 +103,7 @@ id item_icon
 id item_label
 layout preference_skin_item
 string app_name
+string mantou_skin_name
 string msg_market_not_found
 string msg_no_package
 string msg_skin_load_failed
@@ -125,6 +126,7 @@ string pref_skin_search_button
 string skin_name
 string skin_name_neko
 string skin_search_uri
+string test_name
 xml neko
 xml pref
 xml skin

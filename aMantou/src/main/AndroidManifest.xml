@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.example.aneko.sample"
+          package="com.example.aneko.test"
+          xmlns:tools="http://schemas.android.com/tools"
+          tools:replace="android:label"
+          android:label="@string/test_name"
           android:versionCode="1"
           android:versionName="1.0">
 
-    <application android:icon="@drawable/icon" android:label="@string/app_name">
+    <application android:icon="@drawable/icon">
 
     <!-- main Activity -->
-    <activity android:name=".SkinActivity"
-              android:label="@string/skin_name"
+    <activity android:name="com.example.aneko.test.SkinActivity"
+              android:label="@string/mantou_skin_name"
               android:theme="@android:style/Theme.NoDisplay">
       <!-- launch from "open" -->
       <intent-filter>

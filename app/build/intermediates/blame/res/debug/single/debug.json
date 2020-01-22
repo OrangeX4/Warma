@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kaki2.png.flat",
-        "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\kaki2.png"
-    },
-    {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_akubi2.png.flat",
         "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\akubi2.png"
+    },
+    {
+        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kaki2.png.flat",
+        "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\kaki2.png"
     },
     {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dwright1.png.flat",
@@ -48,12 +48,12 @@
         "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\upright2.png"
     },
     {
-        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dwright2.png.flat",
-        "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\dwright2.png"
-    },
-    {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_upleft2.png.flat",
         "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\upleft2.png"
+    },
+    {
+        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dwright2.png.flat",
+        "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\dwright2.png"
     },
     {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",

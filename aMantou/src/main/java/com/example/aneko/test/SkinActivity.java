@@ -1,4 +1,4 @@
-package com.example.aneko.sample;
+package com.example.aneko.test;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -46,7 +46,7 @@ public class SkinActivity extends Activity
         }
 
         new AlertDialog.Builder(this)
-            .setTitle(R.string.app_name)
+            .setTitle(R.string.test_name)
             .setMessage(msg_id)
             .setPositiveButton(
                 android.R.string.ok,

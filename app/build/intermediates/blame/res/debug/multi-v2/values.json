@@ -4,48 +4,58 @@
             "outputFile": "D:\\Project\\Warma!\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\Project\\Warma!\\aMantou\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
                     "from": {
-                        "startLines": "2,27,26,7,6,9,16,15,14,12,11,22,21,19,18,23,24,4,29",
-                        "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
-                        "startOffsets": "55,1049,995,203,148,262,578,517,459,394,337,827,774,702,640,884,937,100,1103",
-                        "endColumns": "41,50,52,55,53,71,58,59,56,61,55,55,51,68,60,51,54,44,75",
-                        "endOffsets": "94,1097,1045,256,199,331,634,574,513,453,390,880,823,768,698,933,989,142,1176"
+                        "startLines": "2,-1",
+                        "startColumns": "4,-1",
+                        "startOffsets": "55,-1",
+                        "endColumns": "47,-1",
+                        "endOffsets": "98,-1"
                     },
                     "to": {
-                        "startLines": "26,27,29,32,33,34,35,36,37,38,39,40,41,42,43,44,45,47,48",
+                        "startLines": "27,50",
+                        "startColumns": "4,4",
+                        "startOffsets": "749,2065",
+                        "endColumns": "47,48",
+                        "endOffsets": "792,2109"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "26,28,30,33,34,35,36,37,38,39,40,41,42,43,44,45,46,48,49",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "705,749,851,1002,1060,1116,1190,1251,1313,1372,1436,1494,1552,1606,1677,1740,1794,1892,1939",
+                        "startOffsets": "705,797,899,1050,1108,1164,1238,1299,1361,1420,1484,1542,1600,1654,1725,1788,1842,1940,1987",
                         "endColumns": "43,52,54,57,55,73,60,61,58,63,57,57,53,70,62,53,56,46,77",
-                        "endOffsets": "744,797,901,1055,1111,1185,1246,1308,1367,1431,1489,1547,1601,1672,1735,1789,1846,1934,2012"
+                        "endOffsets": "744,845,949,1103,1159,1233,1294,1356,1415,1479,1537,1595,1649,1720,1783,1837,1894,1982,2060"
                     }
                 },
                 {
                     "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
                     "from": {
-                        "startLines": "3,4,5,6",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "99,148,200,244",
-                        "endColumns": "48,51,43,40",
-                        "endOffsets": "143,195,239,280"
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
                     },
                     "to": {
-                        "startLines": "28,30,31,46",
+                        "startLines": "29,31,32,47",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "802,906,958,1851",
+                        "startOffsets": "850,954,1006,1899",
                         "endColumns": "48,51,43,40",
-                        "endOffsets": "846,953,997,1887"
+                        "endOffsets": "894,1001,1045,1935"
                     }
                 },
                 {
                     "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\values\\arrays.xml",
                     "from": {
-                        "startLines": "20,26,3,11",
-                        "startColumns": "2,2,2,2",
-                        "startOffsets": "488,630,80,273",
-                        "endLines": "24,30,9,17",
-                        "endColumns": "17,17,17,17",
-                        "endOffsets": "624,770,267,460"
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
                     },
                     "to": {
                         "startLines": "2,7,12,19",

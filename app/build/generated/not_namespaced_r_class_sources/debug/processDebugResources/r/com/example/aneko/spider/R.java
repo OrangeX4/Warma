@@ -59,10 +59,10 @@ public final class R {
         private string() {}
 
         public static final int app_name = 0x7f050000;
-        public static final int msg_no_package = 0x7f050002;
-        public static final int msg_unexpected_err = 0x7f050004;
-        public static final int msg_usage = 0x7f050005;
-        public static final int skin_name = 0x7f050014;
+        public static final int msg_no_package = 0x7f050003;
+        public static final int msg_unexpected_err = 0x7f050005;
+        public static final int msg_usage = 0x7f050006;
+        public static final int skin_name = 0x7f050015;
     }
     public static final class xml {
         private xml() {}
