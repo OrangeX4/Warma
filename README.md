@@ -15,7 +15,8 @@
 **想要更多有趣的皮肤？看看下面的内容，然后提意见吧！欢迎Star + Fork + Pull Request 三连！！！**
 
 # 快速创建新皮肤
-为[这个文件夹](./sample)的每一张图片做一张替换的图片，反馈给我，有时间的话我会加进去的。或者你可以根据下面的教程自己创建皮肤！  
+为[这个文件夹](./sample)的每一张图片做一张替换的图片，反馈给我，有时间的话我会加进去的。
+或者你可以根据下面的教程自己创建皮肤！  
 如图：  
 ![无法显示！](/sample/awakes.png)  ![无法显示！](/sample/down1s.png)  ![无法显示！](/sample/down2s.png)  ![无法显示！](/sample/dwleft1s.png)  ![无法显示！](/sample/dwleft2s.png)  ![无法显示！](/sample/dwright1s.png)  ![无法显示！](/sample/dwright2s.png)  ![无法显示！](/sample/left1s.png)  ![无法显示！](/sample/left2s.png)  ![无法显示！](/sample/right1s.png)  ![无法显示！](/sample/right2s.png)  ![无法显示！](/sample/stops.png)  
 诸如此类。  
