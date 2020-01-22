@@ -1,2 +1,2 @@
-# Referenced at D:\Project\AFoxtest\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:14
+# Referenced at D:\Project\Warma!\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:14
 -keep class android.support.multidex.MultiDexApplication { <init>(); }

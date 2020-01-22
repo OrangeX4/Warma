@@ -13,16 +13,18 @@ public final class R {
         private drawable() {}
 
         public static final int icon = 0x7f02001a;
-        public static final int xxy = 0x7f020053;
-        public static final int xxz = 0x7f020054;
-        public static final int xy = 0x7f020055;
-        public static final int xz = 0x7f020056;
-        public static final int y = 0x7f020057;
-        public static final int yang1 = 0x7f020058;
-        public static final int yang2 = 0x7f020059;
-        public static final int yy = 0x7f02005c;
-        public static final int z = 0x7f02005d;
-        public static final int zz = 0x7f02005e;
+        public static final int sy1 = 0x7f020039;
+        public static final int sy1_5 = 0x7f02003a;
+        public static final int sy2 = 0x7f02003b;
+        public static final int sy2_5 = 0x7f02003c;
+        public static final int sz1 = 0x7f02003d;
+        public static final int sz1_5 = 0x7f02003e;
+        public static final int sz2 = 0x7f02003f;
+        public static final int sz2_5 = 0x7f020040;
+        public static final int y1 = 0x7f020060;
+        public static final int y1_5 = 0x7f020061;
+        public static final int z1 = 0x7f020068;
+        public static final int z1_5 = 0x7f020069;
     }
     public static final class string {
         private string() {}
@@ -36,6 +38,6 @@ public final class R {
     public static final class xml {
         private xml() {}
 
-        public static final int skin = 0x7f060003;
+        public static final int snow_skin = 0x7f060004;
     }
 }

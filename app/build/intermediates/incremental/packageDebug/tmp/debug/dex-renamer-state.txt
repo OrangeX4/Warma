@@ -1,7 +1,7 @@
-#Wed Jan 22 18:00:00 CST 2020
-base.0=D\:\\Project\\AFoxtest\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+#Wed Jan 22 20:04:05 CST 2020
+base.0=D\:\\Project\\Warma\!\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.1=classes2.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=D\:\\Project\\AFoxtest\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+base.1=D\:\\Project\\Warma\!\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out

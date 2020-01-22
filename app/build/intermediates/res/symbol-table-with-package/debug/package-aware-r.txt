@@ -60,6 +60,14 @@ drawable sleep2
 drawable sleep2s
 drawable stop
 drawable stops
+drawable sy1
+drawable sy1_5
+drawable sy2
+drawable sy2_5
+drawable sz1
+drawable sz1_5
+drawable sz2
+drawable sz2_5
 drawable up1
 drawable up1s
 drawable up2
@@ -91,12 +99,16 @@ drawable xxz
 drawable xy
 drawable xz
 drawable y
+drawable y1
+drawable y1_5
 drawable yang1
 drawable yang2
 drawable youy
 drawable youz
 drawable yy
 drawable z
+drawable z1
+drawable z1_5
 drawable zz
 id item_check
 id item_icon
@@ -131,3 +143,4 @@ xml mantou_skin
 xml neko
 xml pref
 xml skin
+xml snow_skin

@@ -1,73 +1,73 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:3:11-45
-		INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:3:11-45
+		INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:5:11-36
-		INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:4:11-34
-		INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml
 application
-ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:7:5-29:17
+ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:7:5-29:17
 	android:label
-		ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:7:48-80
+		ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:7:48-80
 	android:icon
-		ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:7:18-47
+		ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:7:18-47
 activity#com.example.aneko.sample.SkinActivity
-ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:10:5-27:16
+ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:10:5-27:16
 	android:label
-		ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:11:15-48
+		ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:11:15-48
 	android:theme
-		ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:12:15-61
+		ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:12:15-61
 	android:name
-		ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:10:15-43
+		ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:10:15-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.INFO
-ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:14:7-17:23
+ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:14:7-17:23
 action#android.intent.action.MAIN
-ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:15:9-61
+ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:15:9-61
 	android:name
-		ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:15:17-58
+		ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:15:17-58
 category#android.intent.category.INFO
-ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:16:9-65
+ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:16:9-65
 	android:name
-		ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:16:19-62
+		ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:16:19-62
 intent-filter#action:name:org.tamanegi.aneko.action.GET_SKIN
-ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:20:7-22:23
+ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:20:7-22:23
 action#org.tamanegi.aneko.action.GET_SKIN
-ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:21:9-69
+ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:21:9-69
 	android:name
-		ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:21:17-66
+		ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:21:17-66
 meta-data#org.tamanegi.aneko.skin
-ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:25:7-26:49
+ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:25:7-26:54
 	android:resource
-		ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:26:18-46
+		ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:26:18-51
 	android:name
-		ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml:25:18-56
+		ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml:25:18-56
 uses-sdk
-INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml
-INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml
-INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml
-INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml
-		ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml
-		ADDED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\Warma\aSnow\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Warma!\aSnow\src\main\AndroidManifest.xml

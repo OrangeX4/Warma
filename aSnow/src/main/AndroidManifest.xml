@@ -23,7 +23,7 @@
 
       <!-- skin data -->
       <meta-data android:name="org.tamanegi.aneko.skin"
-                 android:resource="@xml/skin" />
+                 android:resource="@xml/snow_skin" />
     </activity>
 
   </application>

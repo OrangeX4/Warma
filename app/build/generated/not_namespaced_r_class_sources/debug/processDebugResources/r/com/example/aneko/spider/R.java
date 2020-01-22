@@ -41,19 +41,19 @@ public final class R {
         public static final int sleep1s = 0x7f020034;
         public static final int sleep2s = 0x7f020036;
         public static final int stops = 0x7f020038;
-        public static final int up1s = 0x7f02003a;
-        public static final int up2s = 0x7f02003c;
-        public static final int upleft1s = 0x7f02003e;
-        public static final int upleft2s = 0x7f020040;
-        public static final int upright1s = 0x7f020042;
-        public static final int upright2s = 0x7f020044;
-        public static final int utogi1s = 0x7f020046;
-        public static final int utogi2s = 0x7f020048;
-        public static final int waits = 0x7f02004a;
-        public static final int wallleft1s = 0x7f02004c;
-        public static final int wallleft2s = 0x7f02004e;
-        public static final int wallright1s = 0x7f020050;
-        public static final int wallright2s = 0x7f020052;
+        public static final int up1s = 0x7f020042;
+        public static final int up2s = 0x7f020044;
+        public static final int upleft1s = 0x7f020046;
+        public static final int upleft2s = 0x7f020048;
+        public static final int upright1s = 0x7f02004a;
+        public static final int upright2s = 0x7f02004c;
+        public static final int utogi1s = 0x7f02004e;
+        public static final int utogi2s = 0x7f020050;
+        public static final int waits = 0x7f020052;
+        public static final int wallleft1s = 0x7f020054;
+        public static final int wallleft2s = 0x7f020056;
+        public static final int wallright1s = 0x7f020058;
+        public static final int wallright2s = 0x7f02005a;
     }
     public static final class string {
         private string() {}
