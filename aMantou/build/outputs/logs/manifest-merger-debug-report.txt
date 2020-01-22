@@ -56,9 +56,9 @@ ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:24:9-69
 	android:name
 		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:24:17-66
 meta-data#org.tamanegi.aneko.skin
-ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:28:7-29:49
+ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:28:7-29:56
 	android:resource
-		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:29:18-46
+		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:29:18-53
 	android:name
 		ADDED from D:\Project\Warma!\aMantou\src\main\AndroidManifest.xml:28:18-56
 uses-sdk

@@ -38,4 +38,4 @@ string msg_no_package
 string msg_unexpected_err
 string msg_usage
 string test_name
-xml skin
+xml mantou_skin

@@ -126,6 +126,7 @@ int string skin_name 0x7f050015
 int string skin_name_neko 0x7f050016
 int string skin_search_uri 0x7f050017
 int string test_name 0x7f050018
-int xml neko 0x7f060000
-int xml pref 0x7f060001
-int xml skin 0x7f060002
+int xml mantou_skin 0x7f060000
+int xml neko 0x7f060001
+int xml pref 0x7f060002
+int xml skin 0x7f060003

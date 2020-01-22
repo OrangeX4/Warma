@@ -37,4 +37,4 @@ int string msg_no_package 0x7f140002
 int string msg_unexpected_err 0x7f140003
 int string msg_usage 0x7f140004
 int string test_name 0x7f140005
-int xml skin 0x7f180001
+int xml mantou_skin 0x7f180001

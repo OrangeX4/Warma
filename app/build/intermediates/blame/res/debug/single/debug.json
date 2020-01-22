@@ -28,12 +28,12 @@
         "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\debug\\drawable\\ltogi1s.png"
     },
     {
-        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_utogi2.png.flat",
-        "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\utogi2.png"
-    },
-    {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rtogi1s.png.flat",
         "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\debug\\drawable\\rtogi1s.png"
+    },
+    {
+        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_utogi2.png.flat",
+        "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\utogi2.png"
     },
     {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_left1.png.flat",
@@ -518,6 +518,10 @@
     {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable_up2.png.flat",
         "source": "D:\\Project\\Warma!\\aMantou\\build\\intermediates\\packaged_res\\debug\\drawable\\up2.png"
+    },
+    {
+        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\xml_mantou_skin.xml.flat",
+        "source": "D:\\Project\\Warma!\\aMantou\\build\\intermediates\\packaged_res\\debug\\xml\\mantou_skin.xml"
     },
     {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kaki1.png.flat",

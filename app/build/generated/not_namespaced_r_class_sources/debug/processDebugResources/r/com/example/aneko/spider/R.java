@@ -67,6 +67,6 @@ public final class R {
     public static final class xml {
         private xml() {}
 
-        public static final int skin = 0x7f060002;
+        public static final int skin = 0x7f060003;
     }
 }

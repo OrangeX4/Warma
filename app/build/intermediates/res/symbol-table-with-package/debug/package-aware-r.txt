@@ -127,6 +127,7 @@ string skin_name
 string skin_name_neko
 string skin_search_uri
 string test_name
+xml mantou_skin
 xml neko
 xml pref
 xml skin
