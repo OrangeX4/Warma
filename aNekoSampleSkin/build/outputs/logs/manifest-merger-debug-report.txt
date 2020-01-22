@@ -27,14 +27,14 @@ ADDED from D:\Project\Warma!\aNekoSampleSkin\src\main\AndroidManifest.xml:7:5-29
 		ADDED from D:\Project\Warma!\aNekoSampleSkin\src\main\AndroidManifest.xml:7:48-80
 	android:icon
 		ADDED from D:\Project\Warma!\aNekoSampleSkin\src\main\AndroidManifest.xml:7:18-47
-activity#com.example.aneko.sample.SkinActivity
+activity#com.example.aneko.spider.SkinActivity
 ADDED from D:\Project\Warma!\aNekoSampleSkin\src\main\AndroidManifest.xml:10:5-27:16
 	android:label
 		ADDED from D:\Project\Warma!\aNekoSampleSkin\src\main\AndroidManifest.xml:11:15-48
 	android:theme
 		ADDED from D:\Project\Warma!\aNekoSampleSkin\src\main\AndroidManifest.xml:12:15-61
 	android:name
-		ADDED from D:\Project\Warma!\aNekoSampleSkin\src\main\AndroidManifest.xml:10:15-43
+		ADDED from D:\Project\Warma!\aNekoSampleSkin\src\main\AndroidManifest.xml:10:15-67
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.INFO
 ADDED from D:\Project\Warma!\aNekoSampleSkin\src\main\AndroidManifest.xml:14:7-17:23
 action#android.intent.action.MAIN

@@ -1,7 +1,7 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package com.example.aneko.sample;
+package com.example.aneko.spider;
 
 public final class BuildConfig {
   public static final boolean DEBUG = false;

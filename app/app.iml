@@ -131,5 +131,6 @@
     <orderEntry type="jdk" jdkName="Android API 11 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="aNekoSampleSkin" />
+    <orderEntry type="module" module-name="aMantou" />
   </component>
 </module>

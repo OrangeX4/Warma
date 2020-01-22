@@ -6,9 +6,9 @@ Moved Files:
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
-* AndroidManifest.xml => aNekoSampleSkin\src\main\AndroidManifest.xml
-* res\ => aNekoSampleSkin\src\main\res\
-* src\ => aNekoSampleSkin\src\main\java\
+* AndroidManifest.xml => aMantou\src\main\AndroidManifest.xml
+* res\ => aMantou\src\main\res\
+* src\ => aMantou\src\main\java\
 
 Next Steps:
 -----------

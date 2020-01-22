@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.aneko.sample.test" >
+    package="com.example.aneko.spider.test" >
 
     <uses-sdk
         android:minSdkVersion="11"
         android:targetSdkVersion="11" />
 
     <instrumentation
-        android:name="android.test.InstrumentationTestRunner"
+        android:name="com.android.test.runner.MultiDexTestRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.example.aneko.sample.test"
-        android:targetPackage="com.example.aneko.sample.test" />
+        android:label="Tests for com.example.aneko.spider.test"
+        android:targetPackage="com.example.aneko.spider.test" />
 
     <application
         android:debuggable="true"
@@ -20,7 +20,7 @@
         <uses-library android:name="android.test.runner" />
         <!-- main Activity -->
         <activity
-            android:name="com.example.aneko.sample.SkinActivity"
+            android:name="com.example.aneko.spider.SkinActivity"
             android:label="@string/skin_name"
             android:theme="@android:style/Theme.NoDisplay" >
 

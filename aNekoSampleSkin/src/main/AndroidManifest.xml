@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.example.aneko.sample"
+          package="com.example.aneko.spider"
           android:versionCode="1"
           android:versionName="1.0">
 
     <application android:icon="@drawable/icon" android:label="@string/app_name">
 
     <!-- main Activity -->
-    <activity android:name=".SkinActivity"
+    <activity android:name="com.example.aneko.spider.SkinActivity"
               android:label="@string/skin_name"
               android:theme="@android:style/Theme.NoDisplay">
       <!-- launch from "open" -->

@@ -1,2 +1,3 @@
 include ':app'
 include ':aNekoSampleSkin'
+include ':aMantou'

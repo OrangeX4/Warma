@@ -1,4 +1,4 @@
-com.example.aneko.sample
+com.example.aneko.spider
 drawable akubi1s
 drawable akubi2s
 drawable akubi_ls

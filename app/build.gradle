@@ -20,4 +20,5 @@ android {
 
 dependencies {
     implementation project(':aNekoSampleSkin')
+    implementation project(':aMantou')
 }
