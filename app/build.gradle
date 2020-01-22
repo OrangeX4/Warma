@@ -8,6 +8,7 @@ android {
         applicationId "org.tamanegi.aneko"
         minSdkVersion 11
         targetSdkVersion 11
+        multiDexEnabled true
     }
 
     buildTypes {
@@ -21,4 +22,5 @@ android {
 dependencies {
     implementation project(':aNekoSampleSkin')
     implementation project(':aMantou')
+    implementation project(':aSnow')
 }

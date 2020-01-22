@@ -1,0 +1,18 @@
+com.example.aneko.sample
+drawable icon
+drawable xxy
+drawable xxz
+drawable xy
+drawable xz
+drawable y
+drawable yang1
+drawable yang2
+drawable yy
+drawable z
+drawable zz
+string app_name
+string msg_no_package
+string msg_unexpected_err
+string msg_usage
+string skin_name
+xml skin

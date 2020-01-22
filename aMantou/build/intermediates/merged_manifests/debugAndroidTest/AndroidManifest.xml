@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.aneko.sample.test">
+    package="com.example.aneko.test.test" >
 
-    <uses-sdk android:minSdkVersion="5" android:targetSdkVersion="5" />
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="11" />
 
-    <application android:debuggable="true" >
+    <instrumentation
+        android:name="com.android.test.runner.MultiDexTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.example.aneko.test.test"
+        android:targetPackage="com.example.aneko.test.test" />
+
+    <application
+        android:debuggable="true"
+        android:icon="@drawable/icon" >
         <uses-library android:name="android.test.runner" />
+        <!-- main Activity -->
+        <activity
+            android:name="com.example.aneko.test.SkinActivity"
+            android:label="@string/mantou_skin_name"
+            android:theme="@android:style/Theme.NoDisplay" >
+
+            <!-- launch from "open" -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.INFO" />
+            </intent-filter>
+
+            <!-- to list skin -->
+            <intent-filter>
+                <action android:name="org.tamanegi.aneko.action.GET_SKIN" />
+            </intent-filter>
+
+            <!-- skin data -->
+            <meta-data
+                android:name="org.tamanegi.aneko.skin"
+                android:resource="@xml/mantou_skin" />
+        </activity>
     </application>
 
-    <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.example.aneko.sample"
-                     android:handleProfiling="false"
-                     android:functionalTest="false"
-                     android:label="Tests for com.example.aneko.sample"/>
 </manifest>

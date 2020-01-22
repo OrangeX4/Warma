@@ -1,7 +1,11 @@
 #Internal package file, do not edit.
-#Wed Jan 22 15:20:49 CST 2020
+#Wed Jan 22 15:41:20 CST 2020
+1.base=D\:\\Project\\Warma\!\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 0.baseType=DIRECTORY
-0.base=D\:\\Project\\Warma\!\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
 0.path=classes.dex
 0.set=DEX
-count=1
+0.base=D\:\\Project\\Warma\!\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+1.path=classes2.dex
