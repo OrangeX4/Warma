@@ -1,4 +1,5 @@
 # 介绍  
+根据[ANeko项目](https://github.com/lllllT/ANeko)改良而来，并用Warma画的画做的APP。
 走过路过千万不要错过啊！  
 这里是Warma！APP的**源 ~~玛~~ 码**。  
 鬼知道我为了弄这东西解决了多少莫名其妙bugs...
