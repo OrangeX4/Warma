@@ -14,7 +14,7 @@
         errorLine1="        targetSdkVersion 11"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~">
         <location
-            file="D:\Project\AFox\app\build.gradle"
+            file="D:\Project\Warma!\app\build.gradle"
             line="10"
             column="9"/>
     </issue>

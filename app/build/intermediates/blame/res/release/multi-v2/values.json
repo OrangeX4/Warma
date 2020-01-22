@@ -1,10 +1,44 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Project\\AFox\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Project\\Warma!\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "D:\\Project\\AFox\\app\\src\\main\\res\\values\\arrays.xml",
+                    "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "103,215,282,353",
+                        "endColumns": "111,66,70,44",
+                        "endOffsets": "210,277,348,393"
+                    },
+                    "to": {
+                        "startLines": "28,30,31,46",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "802,969,1036,1956",
+                        "endColumns": "111,66,70,44",
+                        "endOffsets": "909,1031,1102,1996"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,27,26,7,6,9,16,15,14,12,11,22,21,19,18,23,24,4,29",
+                        "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
+                        "startOffsets": "55,1049,995,203,148,262,578,517,459,394,337,827,774,702,640,884,937,100,1103",
+                        "endColumns": "41,50,52,55,53,71,58,59,56,61,55,55,51,68,60,51,54,44,75",
+                        "endOffsets": "94,1097,1045,256,199,331,634,574,513,453,390,880,823,768,698,933,989,142,1176"
+                    },
+                    "to": {
+                        "startLines": "26,27,29,32,33,34,35,36,37,38,39,40,41,42,43,44,45,47,48",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "705,749,914,1107,1165,1221,1295,1356,1418,1477,1541,1599,1657,1711,1782,1845,1899,2001,2048",
+                        "endColumns": "43,52,54,57,55,73,60,61,58,63,57,57,53,70,62,53,56,46,77",
+                        "endOffsets": "744,797,964,1160,1216,1290,1351,1413,1472,1536,1594,1652,1706,1777,1840,1894,1951,2043,2121"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\values\\arrays.xml",
                     "from": {
                         "startLines": "20,26,3,11",
                         "startColumns": "2,2,2,2",
@@ -20,40 +54,6 @@
                         "endLines": "6,11,18,25",
                         "endColumns": "17,17,17,17",
                         "endOffsets": "187,328,514,700"
-                    }
-                },
-                {
-                    "source": "D:\\Project\\AFox\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
-                    "from": {
-                        "startLines": "3,4,5,6",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "103,215,282,353",
-                        "endColumns": "111,66,70,44",
-                        "endOffsets": "210,277,348,393"
-                    },
-                    "to": {
-                        "startLines": "28,30,31,46",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "800,967,1034,1928",
-                        "endColumns": "111,66,70,44",
-                        "endOffsets": "907,1029,1100,1968"
-                    }
-                },
-                {
-                    "source": "D:\\Project\\AFox\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "2,27,26,7,6,9,16,15,14,12,11,22,21,19,18,23,24,4,29",
-                        "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
-                        "startOffsets": "55,1020,966,199,145,256,548,484,426,361,304,794,741,672,610,855,908,98,1074",
-                        "endColumns": "39,50,52,53,52,44,58,62,56,61,55,59,51,65,60,51,54,43,74",
-                        "endOffsets": "92,1068,1016,250,195,298,604,544,480,420,357,851,790,735,668,904,960,139,1146"
-                    },
-                    "to": {
-                        "startLines": "26,27,29,32,33,34,35,36,37,38,39,40,41,42,43,44,45,47,48",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "705,747,912,1105,1161,1216,1263,1324,1389,1448,1512,1570,1632,1686,1754,1817,1871,1973,2019",
-                        "endColumns": "41,52,54,55,54,46,60,64,58,63,57,61,53,67,62,53,56,45,76",
-                        "endOffsets": "742,795,962,1156,1211,1258,1319,1384,1443,1507,1565,1627,1681,1749,1812,1866,1923,2014,2091"
                     }
                 }
             ]

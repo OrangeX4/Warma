@@ -44,12 +44,12 @@
         "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
     },
     {
-        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mati1.png.flat",
-        "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\mati1.png"
-    },
-    {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sleep2s.png.flat",
         "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\debug\\drawable\\sleep2s.png"
+    },
+    {
+        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mati1.png.flat",
+        "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\mati1.png"
     },
     {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wallright2s.png.flat",
@@ -92,12 +92,12 @@
         "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\debug\\drawable\\down2s.png"
     },
     {
-        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dtogi2.png.flat",
-        "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-xhdpi\\dtogi2.png"
-    },
-    {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_youy.png.flat",
         "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-xhdpi\\youy.png"
+    },
+    {
+        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dtogi2.png.flat",
+        "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-xhdpi\\dtogi2.png"
     },
     {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dtogi2s.png.flat",
@@ -192,16 +192,16 @@
         "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-xhdpi\\rtogi2.png"
     },
     {
+        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mati2s.png.flat",
+        "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\debug\\drawable\\mati2s.png"
+    },
+    {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rtogi2.png.flat",
         "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\rtogi2.png"
     },
     {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
         "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
-    },
-    {
-        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mati2s.png.flat",
-        "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\debug\\drawable\\mati2s.png"
     },
     {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sleep2.png.flat",
@@ -384,12 +384,12 @@
         "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\debug\\drawable\\wallleft2s.png"
     },
     {
-        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\xml_skin.xml.flat",
-        "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\debug\\xml\\skin.xml"
-    },
-    {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable_utogi2s.png.flat",
         "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\debug\\drawable\\utogi2s.png"
+    },
+    {
+        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\xml_skin.xml.flat",
+        "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\debug\\xml\\skin.xml"
     },
     {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ltogi2s.png.flat",
@@ -444,12 +444,12 @@
         "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-xhdpi\\kaki2.png"
     },
     {
-        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_up1.png.flat",
-        "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\up1.png"
-    },
-    {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_youz.png.flat",
         "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-xhdpi\\youz.png"
+    },
+    {
+        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_up1.png.flat",
+        "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\up1.png"
     },
     {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
@@ -460,12 +460,12 @@
         "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\debug\\drawable\\akubi2s.png"
     },
     {
-        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ltogi2.png.flat",
-        "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\ltogi2.png"
-    },
-    {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable_utogi1s.png.flat",
         "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\debug\\drawable\\utogi1s.png"
+    },
+    {
+        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ltogi2.png.flat",
+        "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\ltogi2.png"
     },
     {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_down1.png.flat",

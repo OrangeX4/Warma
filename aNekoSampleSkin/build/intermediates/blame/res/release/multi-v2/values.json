@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Project\\AFox\\aNekoSampleSkin\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "outputFile": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "D:\\Project\\AFox\\aNekoSampleSkin\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "2,7,9,6,4",
                         "startColumns": "2,2,2,2,2",
-                        "startOffsets": "53,213,324,144,100",
+                        "startOffsets": "55,220,333,150,104",
                         "endColumns": "45,109,64,68,42",
-                        "endOffsets": "96,320,386,210,140"
+                        "endOffsets": "98,327,395,216,144"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6",
@@ -23,16 +23,16 @@
             ]
         },
         {
-            "outputFile": "D:\\Project\\AFox\\aNekoSampleSkin\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
             "map": [
                 {
-                    "source": "D:\\Project\\AFox\\aNekoSampleSkin\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "2,7,9,6,4",
                         "startColumns": "2,2,2,2,2",
-                        "startOffsets": "53,213,324,144,100",
+                        "startOffsets": "55,220,333,150,104",
                         "endColumns": "45,109,64,68,42",
-                        "endOffsets": "96,320,386,210,140"
+                        "endOffsets": "98,327,395,216,144"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6",

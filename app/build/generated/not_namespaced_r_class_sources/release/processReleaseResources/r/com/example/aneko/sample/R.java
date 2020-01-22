@@ -12,30 +12,48 @@ public final class R {
     public static final class drawable {
         private drawable() {}
 
-        public static final int awake = 0x7f020004;
-        public static final int down1 = 0x7f020005;
-        public static final int down2 = 0x7f020006;
-        public static final int dwleft1 = 0x7f020009;
-        public static final int dwleft2 = 0x7f02000a;
-        public static final int dwright1 = 0x7f02000b;
-        public static final int dwright2 = 0x7f02000c;
-        public static final int icon = 0x7f02000d;
-        public static final int left1 = 0x7f020010;
-        public static final int left2 = 0x7f020011;
-        public static final int right1 = 0x7f020016;
-        public static final int right2 = 0x7f020017;
-        public static final int stop = 0x7f02001c;
-        public static final int up1 = 0x7f02001d;
-        public static final int up2 = 0x7f02001e;
-        public static final int upleft1 = 0x7f02001f;
-        public static final int upleft2 = 0x7f020020;
-        public static final int upright1 = 0x7f020021;
-        public static final int upright2 = 0x7f020022;
-        public static final int wait = 0x7f020025;
-        public static final int wallleft1 = 0x7f020026;
-        public static final int wallleft2 = 0x7f020027;
-        public static final int wallright1 = 0x7f020028;
-        public static final int wallright2 = 0x7f020029;
+        public static final int akubi1s = 0x7f020001;
+        public static final int akubi2s = 0x7f020003;
+        public static final int akubi_ls = 0x7f020005;
+        public static final int akubi_rs = 0x7f020007;
+        public static final int awakes = 0x7f020009;
+        public static final int down1s = 0x7f02000b;
+        public static final int down2s = 0x7f02000d;
+        public static final int dtogi1s = 0x7f02000f;
+        public static final int dtogi2s = 0x7f020011;
+        public static final int dwleft1s = 0x7f020013;
+        public static final int dwleft2s = 0x7f020015;
+        public static final int dwright1s = 0x7f020017;
+        public static final int dwright2s = 0x7f020019;
+        public static final int icon = 0x7f02001a;
+        public static final int kaki1s = 0x7f02001c;
+        public static final int kaki2s = 0x7f02001e;
+        public static final int left1s = 0x7f020020;
+        public static final int left2s = 0x7f020022;
+        public static final int ltogi1s = 0x7f020024;
+        public static final int ltogi2s = 0x7f020026;
+        public static final int mati1s = 0x7f020028;
+        public static final int mati2s = 0x7f02002a;
+        public static final int right1s = 0x7f02002c;
+        public static final int right2s = 0x7f02002e;
+        public static final int rtogi1s = 0x7f020030;
+        public static final int rtogi2s = 0x7f020032;
+        public static final int sleep1s = 0x7f020034;
+        public static final int sleep2s = 0x7f020036;
+        public static final int stops = 0x7f020037;
+        public static final int up1s = 0x7f020039;
+        public static final int up2s = 0x7f02003b;
+        public static final int upleft1s = 0x7f02003d;
+        public static final int upleft2s = 0x7f02003f;
+        public static final int upright1s = 0x7f020041;
+        public static final int upright2s = 0x7f020043;
+        public static final int utogi1s = 0x7f020045;
+        public static final int utogi2s = 0x7f020047;
+        public static final int waits = 0x7f020048;
+        public static final int wallleft1s = 0x7f020049;
+        public static final int wallleft2s = 0x7f02004a;
+        public static final int wallright1s = 0x7f02004b;
+        public static final int wallright2s = 0x7f02004c;
     }
     public static final class string {
         private string() {}

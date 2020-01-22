@@ -24,27 +24,27 @@
     <item>0.6</item>
     <item>0.8</item>
   </string-array>
-    <string name="app_name">某只狐狸</string>
+    <string name="app_name">Warma!</string>
     <string name="msg_market_not_found">未找到</string>
     <string name="msg_no_package">This is skin for ANeko.\nTo use this, install ANeko and choose skin.</string>
     <string name="msg_skin_load_failed">加载失败。</string>
     <string name="msg_unexpected_err">Something is wrong.</string>
     <string name="msg_usage">Choose skin from ANeko settings.</string>
-    <string name="notification_disable">小狐睡着了。</string>
-    <string name="notification_enable">小狐出来了!</string>
-    <string name="pref_cat_motion">设置</string>
+    <string name="notification_disable">被窝玛似乎睡着了</string>
+    <string name="notification_enable">啊啊啊是被窝玛</string>
+    <string name="pref_cat_motion">设置(需去设置->权限管理->Warma!->悬浮框开启)</string>
     <string name="pref_motion_behaviour_default">亲近</string>
-    <string name="pref_motion_behaviour_summary">小狐的行为。</string>
+    <string name="pref_motion_behaviour_summary">行为。</string>
     <string name="pref_motion_behaviour_title">行为</string>
     <string name="pref_motion_enable_summary">出现或者不出现。</string>
     <string name="pref_motion_enable_title">是否出现</string>
-    <string name="pref_motion_skin_summary">各种皮肤（给燕子</string>
+    <string name="pref_motion_skin_summary">各种皮肤</string>
     <string name="pref_motion_skin_title">皮肤</string>
-    <string name="pref_motion_transparency_summary">就是透明度。</string>
+    <string name="pref_motion_transparency_summary">设置透明度透明度。</string>
     <string name="pref_motion_transparency_title">透明度</string>
     <string name="pref_skin_dialog_title">皮肤</string>
-    <string name="pref_skin_search_button">项目地址</string>
+    <string name="pref_skin_search_button">项目源码</string>
     <string name="skin_name">Sample</string>
-    <string name="skin_name_neko">小狐</string>
-    <string name="skin_search_uri">https://github.com/OrangeX4/AFox</string>
+    <string name="skin_name_neko">被窝玛</string>
+    <string name="skin_search_uri">https://github.com/OrangeX4/Warma</string>
 </resources>
