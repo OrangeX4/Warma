@@ -132,6 +132,5 @@ public final class R {
     public static final int neko=0x7f060000;
     public static final int pref=0x7f060001;
     public static final int skin=0x7f060002;
-    public static final int warma=0x7f060003;
   }
 }

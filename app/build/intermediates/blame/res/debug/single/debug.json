@@ -160,10 +160,6 @@
         "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\packaged_res\\debug\\drawable\\up2s.png"
     },
     {
-        "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\xml_warma.xml.flat",
-        "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\xml\\warma.xml"
-    },
-    {
         "merged": "D:\\Project\\Warma!\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_down1.png.flat",
         "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\drawable-mdpi\\down1.png"
     },

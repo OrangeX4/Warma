@@ -111,4 +111,3 @@ int string skin_search_uri 0x7f050016
 int xml neko 0x7f060000
 int xml pref 0x7f060001
 int xml skin 0x7f060002
-int xml warma 0x7f060003

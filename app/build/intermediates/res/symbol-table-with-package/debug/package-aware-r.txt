@@ -112,4 +112,3 @@ string skin_search_uri
 xml neko
 xml pref
 xml skin
-xml warma
