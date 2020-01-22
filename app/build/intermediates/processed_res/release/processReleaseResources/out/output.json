@@ -1,0 +1,1 @@
+[{"outputType":{"type":"PROCESSED_RES"},"apkData":{"type":"MAIN","splits":[],"versionCode":5,"versionName":"0.1.1","enabled":true,"outputFile":"app-release-unsigned.apk","fullName":"release","baseName":"release"},"path":"resources-release.ap_","properties":{"packageId":"org.tamanegi.aneko","split":"","minSdkVersion":"11"}}]

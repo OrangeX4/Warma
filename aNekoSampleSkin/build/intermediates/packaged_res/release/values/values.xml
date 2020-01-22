@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spider</string>
+    <string name="msg_no_package">这是蜘蛛！</string>
+    <string name="msg_unexpected_err">出错了！</string>
+    <string name="msg_usage">选择皮肤。</string>
+    <string name="skin_name">蜘蛛</string>
+</resources>

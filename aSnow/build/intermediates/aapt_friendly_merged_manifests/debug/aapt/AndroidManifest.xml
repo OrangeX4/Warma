@@ -15,7 +15,7 @@
         <!-- main Activity -->
         <activity
             android:name="com.example.aneko.sample.SkinActivity"
-            android:label="@string/skin_name"
+            android:label="@string/snow_skin_name"
             android:theme="@android:style/Theme.NoDisplay" >
 
             <!-- launch from "open" -->

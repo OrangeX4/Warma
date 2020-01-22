@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,7,9,6,4",
+                        "startColumns": "2,2,2,2,2",
+                        "startOffsets": "55,185,235,142,100",
+                        "endColumns": "41,46,49,41,38",
+                        "endOffsets": "94,229,282,181,136"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,99,148,200,244",
+                        "endColumns": "43,48,51,43,40",
+                        "endOffsets": "94,143,195,239,280"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Project\\Warma!\\aNekoSampleSkin\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Project\\Warma!\\aNekoSampleSkin\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,7,9,6,4",
+                        "startColumns": "2,2,2,2,2",
+                        "startOffsets": "55,185,235,142,100",
+                        "endColumns": "41,46,49,41,38",
+                        "endOffsets": "94,229,282,181,136"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,99,148,200,244",
+                        "endColumns": "43,48,51,43,40",
+                        "endOffsets": "94,143,195,239,280"
+                    }
+                }
+            ]
+        }
+    ]
+}

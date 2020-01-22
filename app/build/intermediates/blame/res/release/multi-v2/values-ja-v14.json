@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Project\\Warma!\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ja-v14\\values-ja-v14.xml",
+            "map": [
+                {
+                    "source": "D:\\Project\\Warma!\\app\\src\\main\\res\\values-ja-v14\\arrays.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "2",
+                        "startOffsets": "77",
+                        "endLines": "5",
+                        "endColumns": "17",
+                        "endOffsets": "170"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "17",
+                        "endOffsets": "146"
+                    }
+                }
+            ]
+        }
+    ]
+}

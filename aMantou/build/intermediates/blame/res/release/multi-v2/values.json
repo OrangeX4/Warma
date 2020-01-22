@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Project\\Warma!\\aMantou\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Project\\Warma!\\aMantou\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,7,9,6,2",
+                        "startColumns": "2,2,2,2,2",
+                        "startOffsets": "101,217,328,148,53",
+                        "endColumns": "45,109,49,68,46",
+                        "endOffsets": "144,324,375,214,97"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,215,267,338",
+                        "endColumns": "47,111,51,70,48",
+                        "endOffsets": "98,210,262,333,382"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Project\\Warma!\\aMantou\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Project\\Warma!\\aMantou\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,7,9,6,2",
+                        "startColumns": "2,2,2,2,2",
+                        "startOffsets": "101,217,328,148,53",
+                        "endColumns": "45,109,49,68,46",
+                        "endOffsets": "144,324,375,214,97"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,215,267,338",
+                        "endColumns": "47,111,51,70,48",
+                        "endOffsets": "98,210,262,333,382"
+                    }
+                }
+            ]
+        }
+    ]
+}

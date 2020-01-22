@@ -17,7 +17,6 @@
         android:debuggable="true"
         android:icon="@drawable/icon"
         android:label="@string/app_name"
-        android:testOnly="true"
         android:theme="@android:style/Theme.Holo.Light" >
         <activity
             android:name="org.tamanegi.aneko.ANekoActivity"
@@ -101,7 +100,7 @@
         </activity> <!-- main Activity -->
         <activity
             android:name="com.example.aneko.sample.SkinActivity"
-            android:label="@string/skin_name"
+            android:label="@string/snow_skin_name"
             android:theme="@android:style/Theme.NoDisplay" >
 
             <!-- launch from "open" -->

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_motion_behaviour_entries">
+    <item>好动的</item>
+  </string-array>
+    <string-array name="pref_motion_behaviour_entryvalues">
+    <item>好动的</item>
+  </string-array>
+    <string name="pref_motion_behaviour_default">充满好奇的</string>
+</resources>

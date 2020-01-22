@@ -152,7 +152,7 @@ ADDED from [:aMantou] D:\Project\Warma!\aMantou\build\intermediates\library_mani
 activity#com.example.aneko.sample.SkinActivity
 ADDED from [:aSnow] D:\Project\Warma!\aSnow\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-37:20
 	android:label
-		ADDED from [:aSnow] D:\Project\Warma!\aSnow\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-46
+		ADDED from [:aSnow] D:\Project\Warma!\aSnow\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-51
 	android:theme
 		ADDED from [:aSnow] D:\Project\Warma!\aSnow\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-59
 	android:name
