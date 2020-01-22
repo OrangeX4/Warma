@@ -15,7 +15,11 @@
 **想要更多有趣的皮肤？看看下面的内容，然后提意见吧！欢迎Star + Fork + Pull Request 三连！！！**
 
 # 新皮肤指南！ 
+<<<<<<< HEAD
 **编辑皮肤数据**  
+=======
+编辑皮肤数据  
+>>>>>>> refs/remotes/origin/master
 
 皮肤数据由Activity的<meta-data>标签指示，
 该标签处理文件中的org.tamanegi.aneko.action.GET_SKIN的intend "AndroidManifest.xml"。    
